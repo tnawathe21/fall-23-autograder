@@ -17,7 +17,7 @@ This repository does not contain:
 - 80% of the test cases we evaluate your code on (until *after* the project is due)
 - the plagiarism checker, which is closed-source
 - the Docker configuration for the deployment; this is managed by Gradescope.
-- canonical solutions for the past projects - those are in the [project template repo](https://github.com/UCLA-CS-131/spring-23-project-starter)
+- canonical solutions for the past projects - those are in the [project template repo](https://github.com/UCLA-CS-131/fall-23-project-starter)
 
 We'll note that with the current setup, we grant **five seconds for each test case to run**.
 
