@@ -1,0 +1,12 @@
+func main() {
+  a = (5 + 10) + (15 - (1 + 1 + "TANAYA"));
+  print(a);  
+}
+
+/*
+*IN*
+*IN*
+*OUT*
+ErrorType.TYPE_ERROR
+*OUT*
+*/
